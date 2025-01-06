@@ -9,7 +9,7 @@ This script provides tools for any financial asset analysis, including time-seri
 - **Data Retrieval:** Download data from Yahoo Finance (can be API or CSV file in your case).
 - **Descriptive Statistics:** Calculate mean and volatility of asset returns as the are crucial for further analysis.
 - **Normality Testing:** Provide histogramm and Q-Q plot to check for normality.
-- **Stationarity Testing:** Perform stationarity testing using Augmenter Dicker Fuller method.
+- **Stationarity Testing:** Perform stationarity testing using Augmenter Dickey Fuller method.
 - **Seasonality Analysis:** Decompose time-series into trend, seasonality, and residual noise and depict it.
 - **Forecasting:** Predict future prices using SARIMA model for the next 6 months.
 - **Simulation:** Model future price paths using Monte Carlo method and compare results with SARIMA results.
