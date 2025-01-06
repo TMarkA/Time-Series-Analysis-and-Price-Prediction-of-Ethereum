@@ -1,6 +1,6 @@
 # Time-Series-Analysis and Price Prediction
 My Seminar Project "Time-Series Analysis and Price Prediction of Ethereum using SARIMA and Monte-Carlo Simulation" that I did in 2023 in Otto von GUericke University Magdeburg 
-
+It is provided in decomposed parts of Python code as well as in a single Jupyter Notebook file. 
 
 This project provides tools for any financial asset analysis, including time-series analysis, seasonal decomposition, statistical tests, forecasting with SARIMA model and Monte Carlo simulation.
 (Note: different types of assets might require extra steps in data processing stage as crypto is traded 24/7)
