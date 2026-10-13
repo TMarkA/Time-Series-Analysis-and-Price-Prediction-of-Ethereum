@@ -1,6 +1,6 @@
 # Time-Series Analysis and Price Prediction of Ethereum
 
-This is my seminar project from 2023 at Otto von Guericke University Magdeburg: "Time-Series Analysis and Price Prediction of a Financial Asset using a SARIMA Model and Monte Carlo Simulation in Python".
+This is my seminar project from 2024 at Otto von Guericke University Magdeburg: "Time-Series Analysis and Price Prediction of a Financial Asset using a SARIMA Model and Monte Carlo Simulation in Python".
 
 The idea was to take one volatile asset, Ethereum (ETH/USD), and go through the standard time-series toolkit step by step: distribution, stationarity, autocorrelation and seasonality. Then I forecast the price six months ahead in two different ways, with a SARIMA model and with a Monte Carlo simulation.
 
